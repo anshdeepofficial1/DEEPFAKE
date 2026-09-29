@@ -85,7 +85,7 @@ happened” are separate verification tasks.
 ## Run locally
 
 ```bash
-git clone https://github.com/anshdeepofficial/DEEPFAKE.git
+git clone https://github.com/anshdeepofficial1/DEEPFAKE.git
 cd DEEPFAKE
 python -m venv .venv
 
